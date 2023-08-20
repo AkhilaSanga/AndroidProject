@@ -17,7 +17,7 @@ GridLayout2.java - created to categorize the food items under Non-Veg category.
 XML Files
 These files are that provide User Interface to the user. 
 andoidmanifest.xml - provides information such as activities, services, broadcast receivers, and content providers of an android application.
-activityMain.xml - automatically created at the creation of the project, the UI of the project.
+activity_main.xml - automatically created at the creation of the project, the UI of the project.
 splashscreeen.xml - the first screen that appears for particular period after opening the application. Just like the screen UI appears after opening WhatsApp/Facebook/Instagram n moer such applications
 gridlayout.xml - the UI of the food items that fall under Veg category are presented in a grid manner.
 gridlayout2.xml - the UI of the food items that fall under Non-Veg category are presented in a grid manner.
