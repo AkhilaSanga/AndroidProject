@@ -22,3 +22,6 @@ activity_main.xml - automatically created at the creation of the project, the UI
 splashscreeen.xml - the first screen that appears for particular period after opening the application. Just like the screen UI appears after opening WhatsApp/Facebook/Instagram n moer such applications
 gridlayout.xml - the UI of the food items that fall under Veg category are presented in a grid manner.
 gridlayout2.xml - the UI of the food items that fall under Non-Veg category are presented in a grid manner.
+
+Screenshots of the Project:
+![Food1](https://github.com/AkhilaSanga/AndroidProject/assets/112496922/ad035673-101e-4a15-927e-31e68a19db3d)
