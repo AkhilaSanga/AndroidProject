@@ -25,3 +25,6 @@ gridlayout2.xml - the UI of the food items that fall under Non-Veg category are 
 
 Screenshots of the Project:
 ![Food1](https://github.com/AkhilaSanga/AndroidProject/assets/112496922/ad035673-101e-4a15-927e-31e68a19db3d)
+![Food2](https://github.com/AkhilaSanga/AndroidProject/assets/112496922/fca25378-813c-4cec-ad46-8e835ea3f92e)
+![Food3](https://github.com/AkhilaSanga/AndroidProject/assets/112496922/1db7d992-0535-4865-9a64-dbd09f93dcbb)
+![Food4](https://github.com/AkhilaSanga/AndroidProject/assets/112496922/62dc05e0-99fb-45d7-97f8-0afd149c4d3c)
